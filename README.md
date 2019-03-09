@@ -1,2 +1,1 @@
-# jinge1936.github.io
-Personal page host
+# Artificial Intelligence (AI) Inside Out
