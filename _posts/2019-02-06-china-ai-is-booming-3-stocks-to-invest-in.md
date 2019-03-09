@@ -18,12 +18,12 @@ images:
     width: 2000
     height: 1127
     quality: 97
-    title: Computer circuits that form the image of a brain.
+    title: Computer circuits that form the image of a brain 1.
     attribution: Getty Images
   - url: /assets/images/2019/02/china-ai-is-booming-3-stocks-to-invest-in-2.jpg
     width: 2000
     height: 1127
     quality: 97
-    title: Computer circuits that form the image of a brain.
+    title: Computer circuits that form the image of a brain 2.
     attribution: Getty Images
 ---
