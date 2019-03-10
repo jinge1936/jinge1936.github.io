@@ -14,15 +14,15 @@ tags:
 
 images: 
     - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUtKTw.img
-  width: 1360
-  height: 765
-  quality: 89
-  title: 2019 Chevrolet Blazer AWD RS front three quarter in motion 1
-  attribution: 
-  focalRegion:
-    x1: 685
-    x2: 685
-    y1: 360
-    y2: 360
+    width: 1360
+    height: 765
+    quality: 89
+    title: 2019 Chevrolet Blazer AWD RS front three quarter in motion 1
+    attribution: 
+    focalRegion:
+      x1: 685
+      x2: 685
+      y1: 360
+      y2: 360
 
 ---
