@@ -13,16 +13,16 @@ tags:
   - Autos
 
 images: 
-    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUy0Jg.img
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUxAvo.img
 width: 1920
 height: 1080
 quality: 50
 title: 1934 BMW KR6
 attribution: 
 focalRegion:
-  x1: 989
-  x2: 989
-  y1: 591
-  y2: 591
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---
