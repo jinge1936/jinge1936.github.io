@@ -11,7 +11,7 @@ provider:
   id: V_AAvrs6s_global
 
 images: 
-      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUrkHa.img
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUrkHa.img
     width: 898
     height: 505
     quality: 81
