@@ -10,19 +10,19 @@ provider:
   name: AFP
   id: V_AA5ZTIC_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUqKVO.img
-    width: 1024
-    height: 682
-    quality: 99
-    title: Around 60,000 employees work at the Shenzhen headquarters which includes laboratories, hotels, swimming pools, fitness centres and a Huawei University
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUqKVO.img
+width: 1024
+height: 682
+quality: 99
+title: Around 60,000 employees work at the Shenzhen headquarters which includes laboratories, hotels, swimming pools, fitness centres and a Huawei University
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

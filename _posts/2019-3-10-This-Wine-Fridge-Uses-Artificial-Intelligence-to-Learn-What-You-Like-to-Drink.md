@@ -10,19 +10,19 @@ provider:
   name: Food & Wine
   id: V_BBou3lT_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTQYI0.img
-    width: 1600
-    height: 1200
-    quality: 84
-    title: This Wine Fridge Uses Artificial Intelligence to Learn What You Like to Drink
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTQYI0.img
+width: 1600
+height: 1200
+quality: 84
+title: This Wine Fridge Uses Artificial Intelligence to Learn What You Like to Drink
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

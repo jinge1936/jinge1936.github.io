@@ -10,19 +10,19 @@ provider:
   name: CNN
   id: V_AAqcK7_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTHKSw.img
-    width: 1100
-    height: 619
-    quality: 74
-    title: None
-    attribution: 
-    focalRegion:
-      x1: 490
-      x2: 490
-      y1: 282
-      y2: 282
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTHKSw.img
+width: 1100
+height: 619
+quality: 74
+title: None
+attribution: 
+focalRegion:
+  x1: 490
+  x2: 490
+  y1: 282
+  y2: 282
 
 ---

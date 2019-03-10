@@ -10,19 +10,19 @@ provider:
   name: Fortune
   id: V_AA4WQfn_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTeQDR.img
-    width: 2000
-    height: 1331
-    quality: 84
-    title: Peak Of Returning Home During Spring Festival In Shanghai, China
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTeQDR.img
+width: 2000
+height: 1331
+quality: 84
+title: Peak Of Returning Home During Spring Festival In Shanghai, China
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

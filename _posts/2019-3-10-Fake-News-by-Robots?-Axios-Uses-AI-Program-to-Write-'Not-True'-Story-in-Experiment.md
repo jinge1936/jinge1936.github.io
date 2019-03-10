@@ -10,19 +10,19 @@ provider:
   name: TheWrap
   id: V_AA5Hac5_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
-    width: 618
-    height: 412
-    quality: 100
-    title: Robot
-    attribution: 
-    focalRegion:
-      x1: 204
-      x2: 407
-      y1: 119
-      y2: 322
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
+width: 618
+height: 412
+quality: 100
+title: Robot
+attribution: 
+focalRegion:
+  x1: 204
+  x2: 407
+  y1: 119
+  y2: 322
 
 ---

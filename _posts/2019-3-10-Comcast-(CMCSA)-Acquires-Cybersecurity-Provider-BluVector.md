@@ -10,19 +10,19 @@ provider:
   name: Zacks Equity Research
   id: V_AA17fJt_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpBK7.img
-    width: 534
-    height: 250
-    quality: 100
-    title: Comcast (CMCSA) Acquires Cybersecurity Provider BluVector
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpBK7.img
+width: 534
+height: 250
+quality: 100
+title: Comcast (CMCSA) Acquires Cybersecurity Provider BluVector
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

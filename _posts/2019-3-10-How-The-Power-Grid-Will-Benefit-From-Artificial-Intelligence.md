@@ -10,19 +10,19 @@ provider:
   name: Patch
   id: V_AAyhTTE_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTSoxi.img
-    width: 1200
-    height: 900
-    quality: 99
-    title: How The Power Grid Will Benefit From Artificial Intelligence
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTSoxi.img
+width: 1200
+height: 900
+quality: 99
+title: How The Power Grid Will Benefit From Artificial Intelligence
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

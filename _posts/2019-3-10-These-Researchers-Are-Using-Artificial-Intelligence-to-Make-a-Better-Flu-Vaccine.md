@@ -10,19 +10,19 @@ provider:
   name: Time
   id: V_AAnYIu_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpUuS.img
-    width: 1024
-    height: 683
-    quality: 84
-    title: Flu Shots AI
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpUuS.img
+width: 1024
+height: 683
+quality: 84
+title: Flu Shots AI
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

@@ -10,19 +10,19 @@ provider:
   name: AFP
   id: V_AA5ZTIC_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsEx8.img
-    width: 1024
-    height: 682
-    quality: 99
-    title: US President Donald Trump ordered the government to give greater priority to artificial intelligence, but critics said the executive order lacked key details
-    attribution: 
-    focalRegion:
-      x1: 177
-      x2: 409
-      y1: 329
-      y2: 561
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsEx8.img
+width: 1024
+height: 682
+quality: 99
+title: US President Donald Trump ordered the government to give greater priority to artificial intelligence, but critics said the executive order lacked key details
+attribution: 
+focalRegion:
+  x1: 177
+  x2: 409
+  y1: 329
+  y2: 561
 
 ---

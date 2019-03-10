@@ -10,19 +10,19 @@ provider:
   name: The Verge
   id: V_AAnYAn_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUs4Ik.img
-    width: 1920
-    height: 1080
-    quality: 89
-    title: A selection of patterns from the Activation Atlas of the GoogLeNet vision algorithm.
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUs4Ik.img
+width: 1920
+height: 1080
+quality: 89
+title: A selection of patterns from the Activation Atlas of the GoogLeNet vision algorithm.
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

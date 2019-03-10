@@ -10,19 +10,19 @@ provider:
   name: CNBC
   id: V_AAnPvW_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUd8fW.img
-    width: 1910
-    height: 1000
-    quality: 79
-    title: Siri on an iPhone
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUd8fW.img
+width: 1910
+height: 1000
+quality: 79
+title: Siri on an iPhone
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

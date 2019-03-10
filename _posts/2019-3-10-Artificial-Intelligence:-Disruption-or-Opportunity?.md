@@ -10,19 +10,19 @@ provider:
   name: Business 2 Community
   id: default
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://www.bing.com/th?id=ON.B454C90D7CC7F76C157F4BF830E17519&pid=News
-    width: 700
-    height: 400
-    quality: None
-    title: None
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://www.bing.com/th?id=ON.B454C90D7CC7F76C157F4BF830E17519&pid=News
+width: 700
+height: 400
+quality: None
+title: None
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

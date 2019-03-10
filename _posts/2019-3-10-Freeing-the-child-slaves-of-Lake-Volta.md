@@ -10,19 +10,19 @@ provider:
   name: CNN
   id: V_AAqcK7_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUeJdy.img
-    width: 1100
-    height: 619
-    quality: 74
-    title: A child slave untangles a fishing net on Lake Volta, Ghana, November 2018.
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUeJdy.img
+width: 1100
+height: 619
+quality: 74
+title: A child slave untangles a fishing net on Lake Volta, Ghana, November 2018.
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

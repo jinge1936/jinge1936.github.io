@@ -10,19 +10,19 @@ provider:
   name: Zacks Equity Research
   id: V_AA17fJt_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoRz9.img
-    width: 552
-    height: 250
-    quality: 100
-    title: CBS Partners With Canvs to Derive Better Customer Insights
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoRz9.img
+width: 552
+height: 250
+quality: 100
+title: CBS Partners With Canvs to Derive Better Customer Insights
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

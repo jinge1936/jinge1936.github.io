@@ -10,19 +10,19 @@ provider:
   name: Yahoo Finance
   id: default
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: None
-    width: 0
-    height: 0
-    quality: None
-    title: None
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: None
+width: 0
+height: 0
+quality: None
+title: None
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

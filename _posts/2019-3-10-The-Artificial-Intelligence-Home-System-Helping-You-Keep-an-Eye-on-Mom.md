@@ -10,19 +10,19 @@ provider:
   name: Ozy
   id: V_AAa4rsP_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU2w0o.img
-    width: 900
-    height: 900
-    quality: 88
-    title: Gettyimages 517722080
-    attribution: 
-    focalRegion:
-      x1: 674
-      x2: 674
-      y1: 546
-      y2: 546
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU2w0o.img
+width: 900
+height: 900
+quality: 88
+title: Gettyimages 517722080
+attribution: 
+focalRegion:
+  x1: 674
+  x2: 674
+  y1: 546
+  y2: 546
 
 ---

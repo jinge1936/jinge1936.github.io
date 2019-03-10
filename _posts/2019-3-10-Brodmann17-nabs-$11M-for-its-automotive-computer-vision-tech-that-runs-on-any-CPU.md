@@ -10,19 +10,19 @@ provider:
   name: TechCrunch
   id: V_AA2eaS_global
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUqM7Y.img
-    width: 680
-    height: 565
-    quality: 100
-    title: Brodmann17 nabs $11M for its automotive computer vision tech that runs on any CPU
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUqM7Y.img
+width: 680
+height: 565
+quality: 100
+title: Brodmann17 nabs $11M for its automotive computer vision tech that runs on any CPU
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---

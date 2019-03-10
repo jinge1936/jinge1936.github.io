@@ -10,19 +10,19 @@ provider:
   name: ZDNet
   id: default
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoDIF.img
-    width: 1330
-    height: 758
-    quality: 100
-    title: screenshot-2019-03-05-at-11-40-53.png
-    attribution: 
-    focalRegion:
-      x1: None
-      x2: None
-      y1: None
-      y2: None
+    - url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoDIF.img
+width: 1330
+height: 758
+quality: 100
+title: screenshot-2019-03-05-at-11-40-53.png
+attribution: 
+focalRegion:
+  x1: None
+  x2: None
+  y1: None
+  y2: None
 
 ---

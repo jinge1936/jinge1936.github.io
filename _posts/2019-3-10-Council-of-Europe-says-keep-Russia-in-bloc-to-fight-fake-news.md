@@ -10,19 +10,19 @@ provider:
   name: AFP
   id: default
 tags:
-    - AI
+  - AI
 
 images: 
-        - url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyXiwM.img
-    width: None
-    height: None
-    quality: None
-    title: None
-    attribution: 
-    focalRegion:
-      x1: 0
-      x2: 0
-      y1: 0
-      y2: 0
+    - url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyXiwM.img
+width: None
+height: None
+quality: None
+title: None
+attribution: 
+focalRegion:
+  x1: 0
+  x2: 0
+  y1: 0
+  y2: 0
 
 ---
