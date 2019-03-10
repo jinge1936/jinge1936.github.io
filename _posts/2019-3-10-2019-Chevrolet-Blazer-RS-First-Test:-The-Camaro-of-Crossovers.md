@@ -13,7 +13,7 @@ tags:
   - Autos
 
 images: 
-    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUtKTw.img
+  - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUtKTw.img
     width: 1360
     height: 765
     quality: 89

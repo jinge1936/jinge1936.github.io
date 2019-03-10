@@ -13,16 +13,16 @@ tags:
   - Autos
 
 images: 
-    - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUswP9.img
-  width: 728
-  height: 485
-  quality: 79
-  title: Cheapest Parts Store
-  attribution: 
-  focalRegion:
-    x1: 408
-    x2: 408
-    y1: 165
-    y2: 165
+  - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUswP9.img
+    width: 728
+    height: 485
+    quality: 79
+    title: Cheapest Parts Store
+    attribution: 
+    focalRegion:
+      x1: 408
+      x2: 408
+      y1: 165
+      y2: 165
 
 ---
