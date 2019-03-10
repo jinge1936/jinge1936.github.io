@@ -9,6 +9,8 @@ type: article
 provider:
   name: The Motley Fool
   id: V_AA1xXxH_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTjv00.img

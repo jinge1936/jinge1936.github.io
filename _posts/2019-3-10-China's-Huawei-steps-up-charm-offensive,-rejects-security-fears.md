@@ -9,6 +9,8 @@ type: article
 provider:
   name: AFP
   id: V_AA5ZTIC_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUqKVO.img

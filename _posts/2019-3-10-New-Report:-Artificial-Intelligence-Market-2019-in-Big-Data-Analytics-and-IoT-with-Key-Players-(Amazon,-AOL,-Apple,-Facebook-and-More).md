@@ -9,6 +9,8 @@ type: webcontent
 provider:
   name: MarketWatch
   id: default
+tags:
+    - AI
 
 images: 
     -url: None

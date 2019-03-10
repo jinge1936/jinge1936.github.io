@@ -9,6 +9,8 @@ type: article
 provider:
   name: Inside EVs
   id: V_AAvrs6s_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUrkHa.img

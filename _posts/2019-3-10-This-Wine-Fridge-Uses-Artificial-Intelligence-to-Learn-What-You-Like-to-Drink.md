@@ -9,6 +9,8 @@ type: article
 provider:
   name: Food & Wine
   id: V_BBou3lT_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTQYI0.img

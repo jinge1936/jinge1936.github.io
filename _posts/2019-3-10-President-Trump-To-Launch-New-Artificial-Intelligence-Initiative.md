@@ -9,6 +9,8 @@ type: article
 provider:
   name: Newsy
   id: V_BBhb5GY_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsfDA.img

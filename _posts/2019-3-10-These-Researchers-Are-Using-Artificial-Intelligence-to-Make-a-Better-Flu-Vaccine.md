@@ -9,6 +9,8 @@ type: article
 provider:
   name: Time
   id: V_AAnYIu_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpUuS.img

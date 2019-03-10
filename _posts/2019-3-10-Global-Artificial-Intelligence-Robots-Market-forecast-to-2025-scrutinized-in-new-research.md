@@ -9,6 +9,8 @@ type: webcontent
 provider:
   name: WhaTech
   id: default
+tags:
+    - AI
 
 images: 
     -url: https://www.bing.com/th?id=ON.232C87F9601737AF82C21614A3BB824B&pid=News

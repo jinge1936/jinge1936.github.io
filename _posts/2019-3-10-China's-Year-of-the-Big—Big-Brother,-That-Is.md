@@ -9,6 +9,8 @@ type: article
 provider:
   name: Fortune
   id: V_AA4WQfn_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTeQDR.img

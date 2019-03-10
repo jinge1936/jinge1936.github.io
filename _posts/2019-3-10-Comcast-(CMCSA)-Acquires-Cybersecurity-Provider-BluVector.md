@@ -9,6 +9,8 @@ type: article
 provider:
   name: Zacks Equity Research
   id: V_AA17fJt_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpBK7.img

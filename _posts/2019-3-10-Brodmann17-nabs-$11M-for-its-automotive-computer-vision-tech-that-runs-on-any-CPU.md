@@ -9,6 +9,8 @@ type: article
 provider:
   name: TechCrunch
   id: V_AA2eaS_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUqM7Y.img

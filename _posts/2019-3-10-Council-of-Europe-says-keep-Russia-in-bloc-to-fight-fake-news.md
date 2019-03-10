@@ -9,6 +9,8 @@ type: article
 provider:
   name: AFP
   id: default
+tags:
+    - AI
 
 images: 
     -url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyXiwM.img

@@ -9,6 +9,8 @@ type: article
 provider:
   name: Ozy
   id: V_AAa4rsP_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU2w0o.img

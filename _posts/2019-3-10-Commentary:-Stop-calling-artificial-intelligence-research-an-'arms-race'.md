@@ -9,6 +9,8 @@ type: webcontent
 provider:
   name: Napa Valley Register
   id: default
+tags:
+    - AI
 
 images: 
     -url: https://www.bing.com/th?id=ON.582FFC24691CD1381E55955B6353C6D4&pid=News

@@ -9,6 +9,8 @@ type: article
 provider:
   name: The Verge
   id: V_AAnYAn_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUs4Ik.img

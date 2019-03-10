@@ -9,6 +9,8 @@ type: article
 provider:
   name: CNN
   id: V_AAqcK7_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTHKSw.img

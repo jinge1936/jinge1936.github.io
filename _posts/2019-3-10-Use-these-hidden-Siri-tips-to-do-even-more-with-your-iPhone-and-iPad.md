@@ -9,6 +9,8 @@ type: article
 provider:
   name: CNBC
   id: V_AAnPvW_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUd8fW.img

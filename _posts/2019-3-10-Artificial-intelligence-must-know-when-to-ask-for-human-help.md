@@ -9,6 +9,8 @@ type: webcontent
 provider:
   name: WTOP News
   id: default
+tags:
+    - AI
 
 images: 
     -url: None

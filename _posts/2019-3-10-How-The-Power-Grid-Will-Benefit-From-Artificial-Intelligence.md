@@ -9,6 +9,8 @@ type: article
 provider:
   name: Patch
   id: V_AAyhTTE_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTSoxi.img

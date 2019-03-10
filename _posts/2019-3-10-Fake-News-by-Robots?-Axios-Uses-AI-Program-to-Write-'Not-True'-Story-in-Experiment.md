@@ -9,6 +9,8 @@ type: article
 provider:
   name: TheWrap
   id: V_AA5Hac5_global
+tags:
+    - AI
 
 images: 
     -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
