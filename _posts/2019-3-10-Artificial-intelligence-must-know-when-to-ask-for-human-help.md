@@ -13,7 +13,7 @@ tags:
     - AI
 
 images: 
-    -url: None
+        - url: None
     width: 0
     height: 0
     quality: None

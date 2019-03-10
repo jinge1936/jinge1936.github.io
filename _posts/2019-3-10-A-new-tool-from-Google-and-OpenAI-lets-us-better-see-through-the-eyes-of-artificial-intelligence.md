@@ -13,7 +13,7 @@ tags:
     - AI
 
 images: 
-    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUs4Ik.img
+        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUs4Ik.img
     width: 1920
     height: 1080
     quality: 89

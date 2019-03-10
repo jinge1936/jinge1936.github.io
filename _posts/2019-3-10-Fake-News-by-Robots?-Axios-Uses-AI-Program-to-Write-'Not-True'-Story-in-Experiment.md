@@ -13,7 +13,7 @@ tags:
     - AI
 
 images: 
-    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
+        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
     width: 618
     height: 412
     quality: 100

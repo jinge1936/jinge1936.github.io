@@ -13,7 +13,7 @@ tags:
     - AI
 
 images: 
-    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsfDA.img
+        - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsfDA.img
     width: 1280
     height: 720
     quality: 99
