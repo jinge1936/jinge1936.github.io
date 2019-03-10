@@ -11,7 +11,7 @@ provider:
   id: V_AA5Hac5_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTKMOJ.img
     width: 618
     height: 412
     quality: 100

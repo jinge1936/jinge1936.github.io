@@ -11,7 +11,7 @@ provider:
   id: V_AA4WQfn_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTeQDR.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTeQDR.img
     width: 2000
     height: 1331
     quality: 84

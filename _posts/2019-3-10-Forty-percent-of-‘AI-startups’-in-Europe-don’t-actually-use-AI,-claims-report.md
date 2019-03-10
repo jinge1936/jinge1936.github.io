@@ -11,7 +11,7 @@ provider:
   id: V_AAnYAn_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoABJ.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoABJ.img
     width: 1920
     height: 1080
     quality: 79

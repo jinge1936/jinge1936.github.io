@@ -11,7 +11,7 @@ provider:
   id: V_BBhb5GY_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsfDA.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTsfDA.img
     width: 1280
     height: 720
     quality: 99

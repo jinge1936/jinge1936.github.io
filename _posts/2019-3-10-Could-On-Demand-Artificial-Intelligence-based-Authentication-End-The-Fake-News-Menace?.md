@@ -11,7 +11,7 @@ provider:
   id: default
 
 images: 
-        -url: https://www.bing.com/th?id=ON.97A6A9C565EA03473926DAC5D7DDDA6B&pid=News
+    -url: https://www.bing.com/th?id=ON.97A6A9C565EA03473926DAC5D7DDDA6B&pid=News
     width: 700
     height: 350
     quality: None

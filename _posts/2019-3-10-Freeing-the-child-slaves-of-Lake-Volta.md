@@ -11,7 +11,7 @@ provider:
   id: V_AAqcK7_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUeJdy.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUeJdy.img
     width: 1100
     height: 619
     quality: 74

@@ -11,7 +11,7 @@ provider:
   id: default
 
 images: 
-        -url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyXiwM.img
+    -url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyXiwM.img
     width: None
     height: None
     quality: None

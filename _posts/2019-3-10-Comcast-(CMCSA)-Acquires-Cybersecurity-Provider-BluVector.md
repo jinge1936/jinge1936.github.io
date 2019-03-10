@@ -11,7 +11,7 @@ provider:
   id: V_AA17fJt_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpBK7.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUpBK7.img
     width: 534
     height: 250
     quality: 100

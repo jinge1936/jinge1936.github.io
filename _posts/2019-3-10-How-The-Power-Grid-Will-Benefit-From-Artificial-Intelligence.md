@@ -11,7 +11,7 @@ provider:
   id: V_AAyhTTE_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTSoxi.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTSoxi.img
     width: 1200
     height: 900
     quality: 99

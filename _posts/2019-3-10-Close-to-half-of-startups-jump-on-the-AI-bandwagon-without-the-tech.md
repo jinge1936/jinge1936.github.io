@@ -11,7 +11,7 @@ provider:
   id: default
 
 images: 
-        -url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoDIF.img
+    -url: http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUoDIF.img
     width: 1330
     height: 758
     quality: 100

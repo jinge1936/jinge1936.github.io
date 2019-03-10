@@ -11,7 +11,7 @@ provider:
   id: V_AAa4rsP_global
 
 images: 
-        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU2w0o.img
+    -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU2w0o.img
     width: 900
     height: 900
     quality: 88
