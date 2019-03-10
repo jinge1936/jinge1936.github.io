@@ -11,7 +11,7 @@ provider:
   id: default
 
 images: 
-      - url: https://www.bing.com/th?id=ON.B454C90D7CC7F76C157F4BF830E17519&pid=News
+        -url: https://www.bing.com/th?id=ON.B454C90D7CC7F76C157F4BF830E17519&pid=News
     width: 700
     height: 400
     quality: None

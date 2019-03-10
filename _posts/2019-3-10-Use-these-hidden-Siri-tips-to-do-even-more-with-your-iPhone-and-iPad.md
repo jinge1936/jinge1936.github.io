@@ -11,7 +11,7 @@ provider:
   id: V_AAnPvW_global
 
 images: 
-      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUd8fW.img
+        -url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBUd8fW.img
     width: 1910
     height: 1000
     quality: 79
