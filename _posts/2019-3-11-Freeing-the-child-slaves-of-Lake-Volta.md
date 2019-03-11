@@ -3,7 +3,7 @@ category: news
 title: Freeing the child slaves of Lake Volta
 abstract: Children as young as five are sold to human traffickers and made to work on fishing boats on Ghana's Lake Volta. We must demand they are freed, writes Dominika Kulczyk.
 publishedDateTime: 2019-03-01T11:19:46Z
-sourceUrl: https://www.msn.com/en-us/news/us/freeing-the-child-slaves-of-lake-volta/ar-BBUeR7b?
+sourceUrl: https://www.cnn.com/2019/03/01/opinions/lake-volta-child-slaves-dominika-kulczyk/index.html
 type: article
 
 provider:

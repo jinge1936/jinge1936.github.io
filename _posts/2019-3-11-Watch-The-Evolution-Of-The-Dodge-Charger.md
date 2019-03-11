@@ -3,7 +3,7 @@ category: news
 title: Watch The Evolution Of The Dodge Charger
 abstract: The Charger has always been a performance car for the everyman – that's meant different things at different times.
 publishedDateTime: 2019-03-07T22:11:20Z
-sourceUrl: https://www.msn.com/en-us/autos/autos-sports/watch-the-evolution-of-the-dodge-charger/ar-BBUvxK4?
+sourceUrl: https://www.motor1.com/news/308562/dodge-charger-evolution-video/
 type: article
 
 provider:

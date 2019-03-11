@@ -3,7 +3,7 @@ category: news
 title: Largest Corvette Dealer Taking C8 Deposits, Reveal Possibly Nigh
 abstract: Kerbeck Chevrolet in New Jersey might have an idea as to the C8's arrival.
 publishedDateTime: 2019-03-06T21:13:43Z
-sourceUrl: https://www.msn.com/en-us/autos/autos-sports/largest-corvette-dealer-taking-c8-deposits-reveal-possibly-nigh/ar-BBUsTdD?
+sourceUrl: https://www.motor1.com/news/308372/mid-engined-corvette-deposit-open/
 type: article
 
 provider:

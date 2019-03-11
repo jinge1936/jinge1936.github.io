@@ -3,7 +3,7 @@ category: news
 title: 7 Reasons Why the Mazda CX-30 Is Poised for Success
 abstract: Following the brand-new Mazda3 to market is the CX-30, based on the same platform and using the same engines. It will slot between the existing CX-3 and CX-5, and eventually use Mazda’s Skyactiv-X engines.
 publishedDateTime: 2019-03-05T16:59:50Z
-sourceUrl: https://www.msn.com/en-us/autos/videos/7-reasons-why-the-mazda-cx-30-is-poised-for-success/vi-BBUugOL?
+sourceUrl: None
 type: video
 
 provider:

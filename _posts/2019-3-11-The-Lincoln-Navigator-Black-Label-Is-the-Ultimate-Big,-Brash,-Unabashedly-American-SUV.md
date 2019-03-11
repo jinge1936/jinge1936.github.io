@@ -3,7 +3,7 @@ category: news
 title: The Lincoln Navigator Black Label Is the Ultimate Big, Brash, Unabashedly American SUV
 abstract: As far as full-size body-on-frame SUVs are concerned, the Navigator is incredibly elegant, inside and out.
 publishedDateTime: 2019-03-07T16:01:01Z
-sourceUrl: https://www.msn.com/en-us/autos/autos-luxury/the-lincoln-navigator-black-label-is-the-ultimate-big-brash-unabashedly-american-suv/ar-BBUuFyF?
+sourceUrl: https://www.automobilemag.com/news/2019-lincoln-navigator-black-label-2019-automobile-all-stars-contender/
 type: article
 
 provider:

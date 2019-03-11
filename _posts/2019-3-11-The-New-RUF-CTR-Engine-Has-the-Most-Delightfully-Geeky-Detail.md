@@ -3,7 +3,7 @@ category: news
 title: The New RUF CTR Engine Has the Most Delightfully Geeky Detail
 abstract: Air-cooled fans will know something is up here.
 publishedDateTime: 2019-03-08T18:35:22Z
-sourceUrl: https://www.msn.com/en-us/autos/enthusiasts/the-new-ruf-ctr-engine-has-the-most-delightfully-geeky-detail/ar-BBUxNBd?
+sourceUrl: http://www.roadandtrack.com/car-shows/geneva-auto-show/a26763366/ruf-ctr-engine-detail-geneva-2019/
 type: article
 
 provider:

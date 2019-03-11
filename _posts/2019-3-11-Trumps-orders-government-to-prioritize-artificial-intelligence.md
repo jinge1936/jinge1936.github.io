@@ -3,7 +3,7 @@ category: news
 title: Trumps orders government to prioritize artificial intelligence
 abstract: President Donald Trump on Monday ordered the US administration to give greater priority to artificial intelligence, a move seen as firing up a battle for leadership with China.
 publishedDateTime: 2019-02-11T21:36:23Z
-sourceUrl: https://www.msn.com/en-us/news/technology/trumps-orders-government-to-prioritize-artificial-intelligence/ar-BBTszG9?
+sourceUrl: None
 type: article
 
 provider:

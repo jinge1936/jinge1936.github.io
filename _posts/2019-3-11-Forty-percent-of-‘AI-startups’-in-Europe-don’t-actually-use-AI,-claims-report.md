@@ -3,7 +3,7 @@ category: news
 title: Forty percent of ‘AI startups’ in Europe don’t actually use AI, claims report
 abstract: Companies want to take advantage of the AI hype
 publishedDateTime: 2019-03-05T13:14:59Z
-sourceUrl: https://www.msn.com/en-us/news/technology/forty-percent-of-ai-startups-in-europe-don-t-actually-use-ai-claims-report/ar-BBUoylZ?
+sourceUrl: https://www.theverge.com/2019/3/5/18251326/ai-startups-europe-fake-40-percent-mmc-report
 type: article
 
 provider:

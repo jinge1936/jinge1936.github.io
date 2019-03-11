@@ -3,7 +3,7 @@ category: news
 title: How The Power Grid Will Benefit From Artificial Intelligence
 abstract: Blake Zimmerman talks about how artificial intelligence will change the energy industry.
 publishedDateTime: 2019-02-19T13:30:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/how-the-power-grid-will-benefit-from-artificial-intelligence/ar-BBTSjda?
+sourceUrl: https://patch.com/texas/houston/how-power-grid-will-benefit-artificial-intelligence?utm_source=msn&utm_medium=rss&utm_term=home%20%26%20garden&utm_campaign=recirc&utm_content=msn
 type: article
 
 provider:

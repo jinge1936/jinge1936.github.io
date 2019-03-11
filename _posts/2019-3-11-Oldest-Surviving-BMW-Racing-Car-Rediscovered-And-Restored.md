@@ -3,7 +3,7 @@ category: news
 title: Oldest Surviving BMW Racing Car Rediscovered And Restored
 abstract: The 1934 BMW KR6 built for racer Eugen Stösser was believed to be lost. The car has now been found and restored.
 publishedDateTime: 2019-03-08T20:22:28Z
-sourceUrl: https://www.msn.com/en-us/autos/classic-cars/oldest-surviving-bmw-racing-car-rediscovered-and-restored/ar-BBUxOOh?
+sourceUrl: https://motorious.motor1.com/news/308643/oldest-surviving-bmw-racing-car-rediscovered-and-restored/
 type: article
 
 provider:

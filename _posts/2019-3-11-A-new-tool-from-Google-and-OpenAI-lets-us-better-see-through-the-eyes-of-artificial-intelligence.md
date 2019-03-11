@@ -3,7 +3,7 @@ category: news
 title: A new tool from Google and OpenAI lets us better see through the eyes of artificial intelligence
 abstract: This is how machine vision algorithms make sense of the world
 publishedDateTime: 2019-03-06T17:03:50Z
-sourceUrl: https://www.msn.com/en-us/news/technology/a-new-tool-from-google-and-openai-lets-us-better-see-through-the-eyes-of-artificial-intelligence/ar-BBUrXEe?
+sourceUrl: https://www.theverge.com/2019/3/6/18251274/ai-artificial-intelligence-tool-machine-vision-algorithms
 type: article
 
 provider:

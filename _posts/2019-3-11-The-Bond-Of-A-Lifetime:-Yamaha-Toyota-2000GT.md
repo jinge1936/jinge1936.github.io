@@ -3,7 +3,7 @@ category: news
 title: The Bond Of A Lifetime&#58; Yamaha Toyota 2000GT
 abstract: After several decades separated, Emile Bouret uncovers the opportunity of a lifetime with his childhood 2000GT
 publishedDateTime: 2019-03-08T14:39:10Z
-sourceUrl: https://www.msn.com/en-us/autos/classic-cars/the-bond-of-a-lifetime-yamaha-toyota-2000gt/ar-BBUwYcL?
+sourceUrl: https://motorious.motor1.com/news/308607/fathers-yamaha-toyota-2000gt/
 type: article
 
 provider:

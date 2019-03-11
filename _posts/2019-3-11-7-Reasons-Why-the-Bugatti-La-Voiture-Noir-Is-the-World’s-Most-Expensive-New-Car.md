@@ -3,7 +3,7 @@ category: news
 title: 7 Reasons Why the Bugatti La Voiture Noir Is the World’s Most Expensive New Car
 abstract: In celebration of its legendary grand tourers, 110-year anniversary, and reputation for excess, Bugatti built the one-off La Voiture Noir, a $12.5 million, 1,500hp super-coupe.
 publishedDateTime: 2019-03-05T08:10:05Z
-sourceUrl: https://www.msn.com/en-us/autos/videos/7-reasons-why-the-bugatti-la-voiture-noir-is-the-world-s-most-expensive-new-car/vi-BBUrY8K?
+sourceUrl: None
 type: video
 
 provider:

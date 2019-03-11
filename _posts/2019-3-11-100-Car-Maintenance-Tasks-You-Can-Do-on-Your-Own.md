@@ -3,7 +3,7 @@ category: news
 title: 100 Car Maintenance Tasks You Can Do on Your Own
 abstract: Car maintenance seems daunting at first, but start small and work up the car repair ladder. Here are 100 car repair tasks and maintenance you can do yourself.
 publishedDateTime: 2019-02-25T10:00:43Z
-sourceUrl: https://www.msn.com/en-us/autos/ownership/100-car-maintenance-tasks-you-can-do-on-your-own/ss-BBU5Eg3?
+sourceUrl: None
 type: slideshow
 
 provider:

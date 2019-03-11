@@ -3,7 +3,7 @@ category: news
 title: 3 Artificial Intelligence Stocks That Are Currently Cheap
 abstract: Think stocks on the cutting edge of AI are expensive? Think again.
 publishedDateTime: 2019-02-08T02:48:00Z
-sourceUrl: https://www.msn.com/en-us/money/technology/3-artificial-intelligence-stocks-that-are-currently-cheap/ar-BBTjv04?
+sourceUrl: https://www.fool.com/investing/2019/02/07/3-artificial-intelligence-stocks-that-are-currentl.aspx?source=eptmsmlnk0000001&utm_campaign=article&utm_medium=feed&utm_source=msnrss
 type: article
 
 provider:

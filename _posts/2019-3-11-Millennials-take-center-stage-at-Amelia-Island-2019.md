@@ -3,7 +3,7 @@ category: news
 title: Millennials take center stage at Amelia Island 2019
 abstract: Millennials take center stage at Amelia Island 2019
 publishedDateTime: 2019-03-01T04:28:11Z
-sourceUrl: https://www.msn.com/en-us/autos/classic-cars/millennials-take-center-stage-at-amelia-island-2019/ss-BBUmDNS?
+sourceUrl: None
 type: slideshow
 
 provider:

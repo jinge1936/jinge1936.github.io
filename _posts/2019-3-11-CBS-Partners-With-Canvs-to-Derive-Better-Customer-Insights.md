@@ -3,7 +3,7 @@ category: news
 title: CBS Partners With Canvs to Derive Better Customer Insights
 abstract: CBS Corporation CBS recently entered into a strategic agreement with Canvs, a New York based start-up that has expertise in emotion measurement. Canvs uses artificial intelligence (AI) and machine learning technologies to help its clients understand human emotions and convert them into business value. The company can provide detailed information about factors like why customers choose certain brands, what motivates them to engage in repeat...
 publishedDateTime: 2019-03-05T14:11:00Z
-sourceUrl: https://www.msn.com/en-us/money/topstocks/cbs-partners-with-canvs-to-derive-better-customer-insights/ar-BBUoNar?
+sourceUrl: http://www.zacks.com/stock/news/357722/cbs-partners-with-canvs-to-derive-better-customer-insights?cid=CS-MSN-FT-357722
 type: article
 
 provider:

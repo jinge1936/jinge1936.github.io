@@ -3,7 +3,7 @@ category: news
 title: 24 pickups that dared to be different
 abstract: A pickup is a pickup right? They all look similar and do the same job, so what's the difference? What defines a good one? Let's find out...
 publishedDateTime: 2019-02-25T17:54:10Z
-sourceUrl: https://www.msn.com/en-us/autos/enthusiasts/24-pickups-that-dared-to-be-different/ss-BBU44fH?
+sourceUrl: None
 type: slideshow
 
 provider:

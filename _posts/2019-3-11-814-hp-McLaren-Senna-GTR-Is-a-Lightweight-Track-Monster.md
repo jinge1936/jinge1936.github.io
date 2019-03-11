@@ -3,7 +3,7 @@ category: news
 title: 814-hp McLaren Senna GTR Is a Lightweight Track Monster
 abstract: None
 publishedDateTime: 2019-03-08T15:20:43Z
-sourceUrl: https://www.msn.com/en-us/autos/enthusiasts/814-hp-mclaren-senna-gtr-is-a-lightweight-track-monster/ar-BBUx8vT?
+sourceUrl: https://www.motortrend.com/news/mclaren-senna-gtr-power-weight/
 type: article
 
 provider:

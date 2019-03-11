@@ -3,7 +3,7 @@ category: news
 title: 2019 Ford Ranger Quick Drive
 abstract: Ford has reintroduced the Ranger nameplate to compete in the small pickup truck segment. The 2019 Ranger gets a new powertrain, and standard advanced safety gear. However, a steep price tag, drab cabin, and clumsy handling leaves much to be desired.
 publishedDateTime: 2019-03-06T18:24:32Z
-sourceUrl: https://www.msn.com/en-us/autos/videos/2019-ford-ranger-quick-drive/vi-BBUsySJ?
+sourceUrl: None
 type: video
 
 provider:

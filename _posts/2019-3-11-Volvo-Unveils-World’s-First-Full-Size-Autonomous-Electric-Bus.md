@@ -3,7 +3,7 @@ category: news
 title: Volvo Unveils World’s First Full-Size Autonomous Electric Bus
 abstract: Volvo Unveils World’s First Full-Size Autonomous Electric Bus
 publishedDateTime: 2019-03-06T14:17:51Z
-sourceUrl: https://www.msn.com/en-us/autos/news/volvo-unveils-world-s-first-full-size-autonomous-electric-bus/ar-BBUrwgh?
+sourceUrl: https://insideevs.com/volvo-worlds-first-autonomous-electric-bus/
 type: article
 
 provider:

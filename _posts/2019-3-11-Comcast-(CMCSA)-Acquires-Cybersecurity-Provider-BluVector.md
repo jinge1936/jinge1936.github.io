@@ -3,7 +3,7 @@ category: news
 title: Comcast (CMCSA) Acquires Cybersecurity Provider BluVector
 abstract: Comcast CMCSA recently announced the acquisition of BluVector, an Arlington-based cybersecurity solutions provider. BluVector uses artificial intelligence (AI) and machine learning (ML) to detect, analyze and contain a wide range of cyber-threats, including “fileless malware, zero-day malware and ransomware.” Although the financial details of the transaction were not disclosed, Comcast plans to expand BluVector’s business and develop new...
 publishedDateTime: 2019-03-05T19:11:00Z
-sourceUrl: https://www.msn.com/en-us/money/topstocks/comcast-cmcsa-acquires-cybersecurity-provider-bluvector/ar-BBUpNr7?
+sourceUrl: http://www.zacks.com/stock/news/357768/comcast-cmcsa-acquires-cybersecurity-provider-bluvector?cid=CS-MSN-FT-357768
 type: article
 
 provider:

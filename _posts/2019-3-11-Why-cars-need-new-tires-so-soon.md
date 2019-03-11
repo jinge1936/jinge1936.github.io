@@ -3,7 +3,7 @@ category: news
 title: Why cars need new tires so soon
 abstract: Did you pay attention to these critical settings?
 publishedDateTime: 2019-03-07T18:00:02Z
-sourceUrl: https://www.msn.com/en-us/autos/video/why-cars-need-new-tires-so-soon/vi-BBUv5zb?
+sourceUrl: None
 type: video
 
 provider:

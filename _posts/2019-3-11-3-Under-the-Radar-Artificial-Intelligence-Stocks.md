@@ -3,7 +3,7 @@ category: news
 title: 3 Under-the-Radar Artificial Intelligence Stocks
 abstract: These companies are all using AI to get ahead.
 publishedDateTime: 2019-03-10T16:23:00Z
-sourceUrl: https://www.msn.com/en-us/money/technology/3-under-the-radar-artificial-intelligence-stocks/ar-BBUBe6Z?
+sourceUrl: https://www.fool.com/investing/2019/03/10/3-under-the-radar-artificial-intelligence-stocks.aspx?source=eptmsmlnk0000001&utm_campaign=article&utm_medium=feed&utm_source=msnrss
 type: article
 
 provider:

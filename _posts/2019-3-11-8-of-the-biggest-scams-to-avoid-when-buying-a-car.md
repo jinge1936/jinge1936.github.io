@@ -3,7 +3,7 @@ category: news
 title: 8 of the biggest scams to avoid when buying a car
 abstract: If a deal on a car seems too good to be true, it probably is.
 publishedDateTime: 2019-03-09T15:03:00Z
-sourceUrl: https://www.msn.com/en-us/autos/buying/8-of-the-biggest-scams-to-avoid-when-buying-a-car/ss-BBUyVli?
+sourceUrl: None
 type: slideshow
 
 provider:

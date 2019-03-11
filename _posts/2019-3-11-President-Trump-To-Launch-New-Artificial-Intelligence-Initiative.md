@@ -3,7 +3,7 @@ category: news
 title: President Trump To Launch New Artificial Intelligence Initiative
 abstract: President Donald Trump is expected to sign an executive order Monday to create the so-called American AI Initiative.
 publishedDateTime: 2019-02-11T17:31:00Z
-sourceUrl: https://www.msn.com/en-us/news/us/president-trump-to-launch-new-artificial-intelligence-initiative/ar-BBTs6lF?
+sourceUrl: https://www.newsy.com/stories/president-trump-to-launch-artificial-intelligence-initiative/
 type: article
 
 provider:

@@ -3,7 +3,7 @@ category: news
 title: Peugeot is Coming to the U.S.! Should We Care?
 abstract: There’s a fun old Simca commercial for the new Aronde Elysee that includes the phrase “a triumph of French engineering!”&nbsp;
 publishedDateTime: 2019-03-08T17:48:22Z
-sourceUrl: https://www.msn.com/en-us/autos/geneva/peugeot-is-coming-to-the-u-s-should-we-care/ar-BBUxMeB?
+sourceUrl: https://www.motortrend.com/news/peugeot-cars-for-the-us-2019-geneva-motor-show/
 type: article
 
 provider:

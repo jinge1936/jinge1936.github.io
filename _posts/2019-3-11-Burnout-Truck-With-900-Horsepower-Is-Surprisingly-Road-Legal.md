@@ -3,7 +3,7 @@ category: news
 title: Burnout Truck With 900 Horsepower Is Surprisingly Road Legal
 abstract: Meet Filthy, the aptly-named burnout truck from the Land Down Under.
 publishedDateTime: 2019-03-09T21:00:00Z
-sourceUrl: https://www.msn.com/en-us/autos/enthusiasts/burnout-truck-with-900-horsepower-is-surprisingly-road-legal/ar-BBUzR6o?
+sourceUrl: https://www.motor1.com/news/308757/filthy-burnout-truck-australia/
 type: article
 
 provider:

@@ -3,7 +3,7 @@ category: news
 title: 2019 Automobile All-Stars&#58; The Contenders
 abstract: This year's crop of 24 vehicles was maybe the best we've ever assembled.
 publishedDateTime: 2019-03-09T15:59:54Z
-sourceUrl: https://www.msn.com/en-us/autos/news/2019-automobile-all-stars-the-contenders/ar-BBUzkto?
+sourceUrl: https://www.automobilemag.com/news/2019-automobile-all-stars-contenders/
 type: article
 
 provider:

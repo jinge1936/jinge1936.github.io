@@ -3,7 +3,7 @@ category: news
 title: These Researchers Are Using Artificial Intelligence to Make a Better Flu Vaccine
 abstract: 'Tailor-made' custom vaccines could be the future of flu prevention
 publishedDateTime: 2019-03-05T20:31:30Z
-sourceUrl: https://www.msn.com/en-us/news/us/these-researchers-are-using-artificial-intelligence-to-make-a-better-flu-vaccine/ar-BBUsJFB?
+sourceUrl: http://time.com/collection/life-reinvented/5535186/flu-vaccine-artificial-intelligence
 type: article
 
 provider:

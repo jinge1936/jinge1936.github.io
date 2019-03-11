@@ -3,7 +3,7 @@ category: news
 title: Just a Porsche 911 on Treads, Pulling a Toyota Tacoma From the Mud
 abstract: While most people with old Porsche 911s are pampering them, waiting for the cars to ripen like savings bonds, somebody has turned one into a delightfully perverse all-terrain vehicle and is clearly living their best life.
 publishedDateTime: 2019-03-07T14:05:00Z
-sourceUrl: https://www.msn.com/en-us/autos/enthusiasts/just-a-porsche-911-on-treads-pulling-a-toyota-tacoma-from-the-mud/ar-BBUukin?
+sourceUrl: https://jalopnik.com/just-a-porsche-911-on-treads-pulling-a-toyota-tacoma-f-1833079874
 type: article
 
 provider:

@@ -3,7 +3,7 @@ category: news
 title: Jim Wangers’ 1969 Trans Am 400 Is Hiding At The North Pole
 abstract: A collection of old school muscle is uncovered in Alaska, and the highlight is the F-Body hiding under a car cover...
 publishedDateTime: 2019-03-06T17:37:51Z
-sourceUrl: https://www.msn.com/en-us/autos/classic-cars/jim-wangers-1969-trans-am-400-is-hiding-at-the-north-pole/ar-BBUsqGp?
+sourceUrl: https://motorious.motor1.com/news/308310/jim-wangers-trans-am/
 type: article
 
 provider:

@@ -3,7 +3,7 @@ category: news
 title: 2019 Chevrolet Blazer RS First Test&#58; The Camaro of Crossovers
 abstract: I have to imagine it wasn’t supposed to be this way. There have been rumblings from inside Chevrolet for years that the automaker was planning a sporty new midsized crossover to compete with the Ford Edge.&nbsp;
 publishedDateTime: 2019-03-07T09:50:00Z
-sourceUrl: https://www.msn.com/en-us/autos/autos-suvs/2019-chevrolet-blazer-rs-first-test-the-camaro-of-crossovers/ar-BBUtIYL?
+sourceUrl: https://www.motortrend.com/cars/chevrolet/blazer/2019/2019-chevrolet-blazer-rs-first-test-review/
 type: article
 
 provider:

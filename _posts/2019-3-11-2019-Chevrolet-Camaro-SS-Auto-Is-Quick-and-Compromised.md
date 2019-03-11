@@ -3,7 +3,7 @@ category: news
 title: 2019 Chevrolet Camaro SS Auto Is Quick and Compromised
 abstract: While impressive, the new 10-speed automatic gearbox doesn't make it much quicker or alleviate the Camaro's aesthetic and packaging struggles.
 publishedDateTime: 2019-03-08T22:56:39Z
-sourceUrl: https://www.msn.com/en-us/autos/autos-sports/2019-chevrolet-camaro-ss-auto-is-quick-and-compromised/ar-BBUy7d9?
+sourceUrl: http://www.caranddriver.com/reviews/a25472904/2019-chevrolet-camaro-ss-automatic-by-the-numbers/
 type: article
 
 provider:
